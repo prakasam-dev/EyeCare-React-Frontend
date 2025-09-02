@@ -1,0 +1,186 @@
+{
+  "checkupTitle": "Routine Eye Checkup - All Tests with Importance",
+  "checkupPurpose": "These investigations are essential for assessing ocular health, diagnosing potential conditions early, and preserving optimal visual function.",
+  "tests": [
+    {
+      "testName": "Visual Acuity Test",
+      "description": "Evaluates the sharpness and clarity of vision using distance charts (Snellen or LogMAR).",
+      "whyItIsDone": "To check for refractive errors like myopia or hyperopia.",
+      "investigation": "Measurement of visual clarity at specific distances.",
+      "procedure": "The patient reads letters from a chart at a fixed distance with one eye covered. Each eye is tested individually, with and without corrective lenses.",
+      "importanceLevel": "High",
+      "image": "/images/tests/visual-acuity.jpg"
+    },
+    {
+      "testName": "Near Vision Test",
+      "description": "Assesses the ability to read small text up close using a handheld chart.",
+      "whyItIsDone": "To detect presbyopia or near vision difficulties.",
+      "investigation": "Reading performance at close range.",
+      "procedure": "The patient is given a card with printed text to read at about 14 inches away. The examiner observes clarity and consistency.",
+      "importanceLevel": "Medium",
+      "image": "/images/tests/near-vision.jpg"
+    },
+    {
+      "testName": "Refraction Test",
+      "description": "Determines the exact prescription for eyeglasses or contacts using trial lenses or a phoropter.",
+      "whyItIsDone": "To correct vision issues like astigmatism, nearsightedness, or farsightedness.",
+      "investigation": "Measurement of lens power for vision correction.",
+      "procedure": "Using a phoropter, different lens combinations are shown to the patient while reading a chart, narrowing down to the best correction.",
+      "importanceLevel": "High",
+      "image": "/images/tests/refraction.jpg"
+    },
+    {
+      "testName": "Slit Lamp Examination",
+      "description": "Microscopic evaluation of the eye’s front structures, including cornea, lens, and iris.",
+      "whyItIsDone": "To detect cataracts, corneal disorders, and inflammation.",
+      "investigation": "Magnified inspection using bright beam of light.",
+      "procedure": "The patient rests their chin and forehead on a stand while a bright light and microscope are used to examine the eye.",
+      "importanceLevel": "High",
+      "image": "/images/tests/slit-lamp.jpg"
+    },
+    {
+      "testName": "Tonometry (Eye Pressure Test)",
+      "description": "Measures intraocular pressure using non-contact (air puff) or contact methods.",
+      "whyItIsDone": "To identify signs of glaucoma and monitor eye pressure.",
+      "investigation": "Pressure reading of fluid within the eye.",
+      "procedure": "A gentle puff of air or a pressure-sensitive tip is applied to the cornea. The device calculates internal eye pressure.",
+      "importanceLevel": "High",
+      "image": "/images/tests/tonometry.jpg"
+    },
+    {
+      "testName": "Retinal Examination",
+      "description": "Inspection of the retina, optic nerve, and vascular structures using ophthalmoscopy.",
+      "whyItIsDone": "To detect diabetic retinopathy, hypertension-related changes, and nerve damage.",
+      "investigation": "Internal eye exam using dilation and magnification.",
+      "procedure": "Eye drops are applied to dilate the pupils. The doctor then uses a light and lens to inspect the retina and optic nerve.",
+      "importanceLevel": "High",
+      "image": "/images/tests/retinal-exam.jpg"
+    },
+    {
+      "testName": "Color Vision Test",
+      "description": "Tests ability to distinguish colors using Ishihara charts or similar patterns.",
+      "whyItIsDone": "To diagnose color blindness and visual deficiencies.",
+      "investigation": "Differentiation of color contrasts and hue detection.",
+      "procedure": "The patient views a series of dot-filled images containing hidden numbers. Identification confirms color accuracy.",
+      "importanceLevel": "Medium",
+      "image": "/images/tests/color-vision.jpg"
+    },
+    {
+      "testName": "Peripheral Vision Test",
+      "description": "Assesses ability to see objects or movements outside of central focus.",
+      "whyItIsDone": "To identify visual field loss from glaucoma or neurological issues.",
+      "investigation": "Mapping extent of side vision via perimetry.",
+      "procedure": "The patient focuses straight ahead while light stimuli appear in peripheral areas. Responses map the visual field.",
+      "importanceLevel": "High",
+      "image": "/images/tests/peripheral-vision.jpg"
+    },
+    {
+      "testName": "Pupil Dilation Test",
+      "description": "Enlarges the pupils using drops for a deeper retinal and optic nerve evaluation.",
+      "whyItIsDone": "To allow full view of internal eye structures for diagnosis.",
+      "investigation": "Wide-field retinal imaging after dilation.",
+      "procedure": "Eye drops are administered to enlarge pupils. After 15–20 minutes, internal structures are examined with light tools.",
+      "importanceLevel": "High",
+      "image": "/images/tests/dilation.jpg"
+    },
+    {
+      "testName": "Ocular Motility Test",
+      "description": "Tracks eye movement while following a moving object.",
+      "whyItIsDone": "To detect misalignment, eye muscle weakness, or nerve palsy.",
+      "investigation": "Evaluation of coordinated eye motion.",
+      "procedure": "The patient follows a moving target with both eyes while the doctor observes tracking accuracy and speed.",
+      "importanceLevel": "Medium",
+      "image": "/images/tests/eye-movement.jpg"
+    },
+    {
+      "testName": "Cover Test",
+      "description": "Alternately covers eyes to assess alignment and coordination.",
+      "whyItIsDone": "To detect lazy eye, squint, and binocular vision issues.",
+      "investigation": "Observation of eye shift during alternate covering.",
+      "procedure": "One eye is covered while the other is observed for movement. Misalignment indicates strabismus or coordination issues.",
+      "importanceLevel": "Medium",
+      "image": "/images/tests/cover-test.jpg"
+    },
+    {
+      "testName": "Depth Perception Test",
+      "description": "Examines how both eyes work together to perceive 3D objects and spacing.",
+      "whyItIsDone": "To evaluate binocular function and spatial judgment.",
+      "investigation": "Analysis of stereoscopic (3D) vision capability.",
+      "procedure": "Using stereoscopic images or polarized lenses, the patient judges object distances or aligns shapes in simulated 3D.",
+      "importanceLevel": "Low",
+      "image": "/images/tests/depth-perception.jpg"
+    },
+    {
+      "testName": "Contrast Sensitivity Test",
+      "description": "Measures ability to discern between subtle differences in shades.",
+      "whyItIsDone": "To detect cataracts and optic nerve abnormalities.",
+      "investigation": "Response to low-contrast patterns in reduced lighting.",
+      "procedure": "The patient views patterns of light and dark stripes at varying contrast levels and reports visibility.",
+      "importanceLevel": "Medium",
+      "image": "/images/tests/contrast.jpg"
+    },
+    {
+      "testName": "Tear Film Test (Schirmer’s)",
+      "description": "Evaluates tear production using filter paper placed in the lower eyelid.",
+      "whyItIsDone": "To diagnose dry eye syndrome or tear deficiency.",
+      "investigation": "Quantification of moisture over 5 minutes.",
+      "procedure": "A small strip of filter paper is gently inserted under the lower eyelid for 5 minutes. Moisture length is measured.",
+      "importanceLevel": "Medium",
+      "image": "/images/tests/tear-test.jpg"
+    },
+    {
+      "testName": "Auto Refractor Test",
+      "description": "Automatically estimates eye prescription using a computerized device.",
+      "whyItIsDone": "Preliminary measurement for lens fitting.",
+      "investigation": "Electronic analysis of how light changes through the eye.",
+      "procedure": "The patient looks into a digital device which projects light. It calculates how light reflects through the eye.",
+      "importanceLevel": "Low",
+      "image": "/images/tests/auto-refraction.jpg"
+    },
+    {
+      "testName": "Corneal Topography",
+      "description": "Digitally maps corneal curvature to detect irregularities or astigmatism.",
+      "whyItIsDone": "To assess suitability for LASIK and identify keratoconus.",
+      "investigation": "3D graphical model of corneal surface.",
+      "procedure": "The patient gazes into a circular device that scans the cornea, generating a color-coded 3D map of the surface.",
+      "importanceLevel": "Medium",
+      "image": "/images/tests/corneal-topography.jpg"
+    },
+        {
+      "testName": "Optical Coherence Tomography (OCT)",
+      "description": "Uses light waves to capture cross-sectional images of retinal layers.",
+      "whyItIsDone": "To detect macular degeneration, diabetic eye disease, or glaucoma.",
+      "investigation": "Layer-by-layer imaging of retina without physical contact.",
+      "procedure": "The patient looks into an OCT device while low-coherence light scans the retina. The system generates high-resolution cross-sectional images.",
+      "importanceLevel": "High",
+      "image": "/images/tests/oct.jpg"
+    },
+    {
+      "testName": "Amsler Grid Test",
+      "description": "Grid chart used to check for distortions or blind spots in central vision.",
+      "whyItIsDone": "To screen for macular degeneration or central vision loss.",
+      "investigation": "Perception of linear distortions or missing areas.",
+      "procedure": "The patient views a grid of straight lines and reports if any lines appear wavy, blurry, or missing while focusing on the center dot.",
+      "importanceLevel": "Medium",
+      "image": "/images/tests/amsler-grid.jpg"
+    },
+    {
+      "testName": "Fluorescein Eye Stain",
+      "description": "Applies a yellow dye to detect corneal damage when viewed under blue light.",
+      "whyItIsDone": "To identify scratches, ulcers, or dryness on the cornea.",
+      "investigation": "Highlighting of epithelial defects via stain absorption.",
+      "procedure": "A small amount of fluorescein dye is placed in the eye. Under blue light, damaged areas appear green, highlighting surface irregularities.",
+      "importanceLevel": "Medium",
+      "image": "/images/tests/fluorescein.jpg"
+    },
+    {
+      "testName": "Visual Evoked Potential (VEP)",
+      "description": "Monitors brain's response to visual stimuli using sensors attached to the scalp.",
+      "whyItIsDone": "To detect optic nerve damage and neurological disorders.",
+      "investigation": "Recording of electrical activity triggered by light patterns.",
+      "procedure": "Electrodes are placed on the patient’s scalp while they observe flashing lights or patterns. The system records brain signals in response to visual input.",
+      "importanceLevel": "Medium",
+      "image": "/images/tests/vep.jpg"
+    }
+  ]
+}
