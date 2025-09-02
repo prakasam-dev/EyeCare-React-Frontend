@@ -1,0 +1,233 @@
+{
+  "title": "Cataract Services – Full Condition Details",
+  "summary": "Comprehensive information about congenital and acquired cataract types, symptoms, risk factors, treatment options, and complications.",
+  "categories": [
+    {
+      "type": "Congenital Cataracts",
+      "description": "Present at birth or early infancy due to genetic mutations, intrauterine infections, or developmental anomalies.",
+      "exploreto":"/services/cataract/congenital",
+      "image":"/images/tests/congenital-cataract.jpg",
+      "conditions": [
+        {
+          "name": "Lamellar Cataract",
+          "description": "Layered opacity affecting nucleus and surrounding zones.",
+          "symptoms": ["Blurred central vision", "Difficulty seeing detail"],
+          "signs": ["Concentric opacities", "Stable size"],
+          "riskFactors": ["Genetic inheritance"],
+          "treatment": "Pediatric cataract surgery with IOL planning.",
+          "complications": {
+            "withSurgery": ["Amblyopia", "Capsular fibrosis"],
+            "withoutSurgery": ["Visual developmental delay", "Reduced contrast sensitivity"]
+          }
+        },
+        {
+          "name": "Nuclear Cataract",
+          "description": "Central opacity of the fetal lens nucleus at birth.",
+          "symptoms": ["Poor fixation", "Reduced clarity"],
+          "signs": ["Dense central clouding"],
+          "riskFactors": ["Congenital syndromes"],
+          "treatment": "Early cataract extraction.",
+          "complications": {
+            "withSurgery": ["Post-op inflammation"],
+            "withoutSurgery": ["Permanent blindness"]
+          }
+        },
+        {
+          "name": "Polar Cataract",
+          "description": "Opacity at anterior or posterior lens pole.",
+          "symptoms": ["Mild blurring", "Light sensitivity"],
+          "signs": ["Well-defined polar opacity"],
+          "riskFactors": ["Hereditary trait"],
+          "treatment": "Surgery if vision is significantly impacted.",
+          "complications": {
+            "withSurgery": ["Capsular rupture"],
+            "withoutSurgery": ["Minimal but progressive blurring"]
+          }
+        },
+        {
+          "name": "Sutural Cataract",
+          "description": "Y-shaped opacities along lens sutures.",
+          "symptoms": ["Usually asymptomatic"],
+          "signs": ["Y-shaped opacity on slit lamp"],
+          "riskFactors": ["Familial inheritance"],
+          "treatment": "Observation, surgery rarely required.",
+          "complications": {
+            "withSurgery": ["Minimal risk"],
+            "withoutSurgery": ["Stable unless progressing"]
+          }
+        },
+        {
+          "name": "Zonular Cataract",
+          "description": "Opacities affecting lens zones, often symmetric.",
+          "symptoms": ["Mild blurring", "Visual contrast issues"],
+          "signs": ["Ring-shaped opacity"],
+          "riskFactors": ["Inherited mutation"],
+          "treatment": "Surgical removal if centrally located.",
+          "complications": {
+            "withSurgery": ["Capsular opacification"],
+            "withoutSurgery": ["Amblyopia"]
+          }
+        },
+        {
+          "name": "Cerulean Cataract",
+          "description": "Bluish dot opacities in lens cortex.",
+          "symptoms": ["None early", "Contrast loss later"],
+          "signs": ["Blue opacities on slit lamp"],
+          "riskFactors": ["Autosomal dominant trait"],
+          "treatment": "Surgery in older children or if affecting vision.",
+          "complications": {
+            "withSurgery": ["Excellent prognosis"],
+            "withoutSurgery": ["Progressive dimming"]
+          }
+        },
+        {
+          "name": "Blue Dot Cataract",
+          "description": "Tiny blue dots scattered in lens.",
+          "symptoms": ["Often asymptomatic"],
+          "signs": ["Multiple dot opacities"],
+          "riskFactors": ["Genetic cause"],
+          "treatment": "Observation unless vision affected.",
+          "complications": {
+            "withSurgery": ["Minimal"],
+            "withoutSurgery": ["Stable vision"]
+          }
+        },
+        {
+          "name": "Total Congenital Cataract",
+          "description": "Complete opacity at birth requiring early intervention.",
+          "symptoms": ["Severe vision loss", "Nystagmus"],
+          "signs": ["No red reflex", "White pupil"],
+          "riskFactors": ["Infections", "Genetic syndromes"],
+          "treatment": "Urgent lensectomy with visual rehab.",
+          "complications": {
+            "withSurgery": ["Glaucoma", "Posterior capsule opacification"],
+            "withoutSurgery": ["Blindness", "Cognitive delay"]
+          }
+        },
+        {
+          "name": "Cataract with Microphthalmia",
+          "description": "Lens opacity with small globe size.",
+          "symptoms": ["Poor fixation", "Limited visual potential"],
+          "signs": ["Small globe", "Opaque lens"],
+          "riskFactors": ["Developmental anomalies"],
+          "treatment": "Tailored surgery or prosthetics.",
+          "complications": {
+            "withSurgery": ["IOL sizing challenges"],
+            "withoutSurgery": ["Permanent visual impairment"]
+          }
+        },
+        {
+          "name": "Cataract due to Maternal Rubella",
+          "description": "Bilateral dense opacity caused by intrauterine rubella infection.",
+          "symptoms": ["Poor fixation", "White reflex"],
+          "signs": ["Dense cataract", "Cardiac or auditory defects"],
+          "riskFactors": ["Rubella during pregnancy"],
+          "treatment": "Surgical extraction with systemic coordination.",
+          "complications": {
+            "withSurgery": ["Inflammation", "Delayed recovery"],
+            "withoutSurgery": ["Blindness", "Multisystem defects"]
+          }
+        }
+      ]
+    },
+    {
+      "type": "Acquired Cataracts",
+      "description": "Develop later in life due to aging, trauma, metabolic issues, medications, or surgical causes.",
+      "exploreto":"/services/cataract/acquired",
+      "image":"/images/tests/acquired-cataract.jpg",
+      "conditions": [
+        {
+          "name": "Age-related Nuclear Sclerosis",
+          "description": "Yellowing and hardening of central lens from aging.",
+          "symptoms": ["Dull vision", "Night driving difficulty"],
+          "signs": ["Yellow nucleus", "Reduced acuity"],
+          "riskFactors": ["Age", "Smoking", "UV exposure"],
+          "treatment": "Phacoemulsification with preferred IOL.",
+          "complications": {
+            "withSurgery": ["Posterior capsule opacification", "Macular edema"],
+            "withoutSurgery": ["Legal blindness", "Fall risk"]
+          }
+        },
+        {
+          "name": "Cortical Cataract",
+          "description": "Spoke-shaped opacities in lens cortex.",
+          "symptoms": ["Glare", "Halos", "Reading difficulty"],
+          "signs": ["Radial spokes", "Decentered reflex"],
+          "riskFactors": ["Diabetes", "Electrolyte imbalance"],
+          "treatment": "Phaco surgery with contrast management.",
+          "complications": {
+            "withSurgery": ["Astigmatism", "Healing delay"],
+            "withoutSurgery": ["Photosensitivity", "Vision decline"]
+          }
+        },
+        {
+          "name": "Posterior Subcapsular Cataract",
+          "description": "Opacities near the posterior capsule affecting near vision.",
+          "symptoms": ["Reading difficulty", "Glare in sunlight"],
+          "signs": ["Granular opacity", "Reduced red reflex"],
+          "riskFactors": ["Steroids", "Radiation", "Diabetes"],
+          "treatment": "Laser-assisted cataract surgery or phaco.",
+          "complications": {
+            "withSurgery": ["Macular edema", "Inflammation"],
+            "withoutSurgery": ["Central vision loss"]
+          }
+        },
+        {
+          "name": "Traumatic Cataract",
+          "description": "Lens opacification due to eye trauma.",
+          "symptoms": ["Blurry vision", "Glare", "Double vision"],
+          "signs": ["Rosette pattern", "Zonular instability"],
+          "riskFactors": ["Blunt or penetrating trauma"],
+          "treatment": "Customized cataract surgery; zonule support if needed.",
+          "complications": {
+            "withSurgery": ["Capsular rupture", "Lens dislocation"],
+            "withoutSurgery": ["Persistent blur", "Inflammation"]
+          }
+        },
+        {
+          "name": "Metabolic Cataract",
+          "description": "Opacity due to metabolic disease like diabetes or galactosemia.",
+          "symptoms": ["Glare", "Vision dimming"],
+          "signs": ["Diffuse haziness", "Snowflake opacities"],
+          "riskFactors": ["Diabetes", "Galactosemia", "Hypocalcemia"],
+          "treatment": "Surgery after systemic control.",
+          "complications": {
+            "withSurgery": ["Delayed healing", "Macular edema"],
+            "withoutSurgery": ["Retinopathy worsening", "Blindness"]
+          }
+        },
+        {
+  "name": "Steroid-induced Cataract",
+  "description": "Lens opacification caused by long-term use of corticosteroids, especially affecting the posterior subcapsular region.",
+  "symptoms": [
+    "Blurring of near vision",
+    "Difficulty reading in low light",
+    "Increased glare sensitivity"
+  ],
+  "signs": [
+    "Posterior subcapsular clouding",
+    "Granular opacity near visual axis"
+  ],
+  "riskFactors": [
+    "Chronic use of oral or topical steroids",
+    "Autoimmune conditions requiring steroid therapy",
+    "Asthma or allergic disorders with prolonged treatment"
+  ],
+  "treatment": "Phacoemulsification with posterior capsule care and appropriate IOL selection. May require pre-op control of underlying systemic condition.",
+  "complications": {
+    "withSurgery": [
+      "Delayed healing due to immunosuppression",
+      "Higher risk of posterior capsule opacification"
+    ],
+    "withoutSurgery": [
+      "Progressive vision loss",
+      "Reduced quality of life",
+      "Dependence on magnifying aids"
+    ]
+  }
+}
+  ]
+}
+  ]
+}
+
