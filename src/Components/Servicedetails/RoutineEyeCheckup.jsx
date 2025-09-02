@@ -53,7 +53,7 @@ const RoutineEyeCheckup = () => {
               {/* Left Side */}
               <div className="w-full lg:w-1/2 px-8 space-y-8">
                 <img
-                  src={test.image}
+                  src={`${import.meta.env.BASE_URL}${test.image}`}
                   alt={test.testName}
                   className="rounded-xl shadow-lg w-full max-w-[300px] items-center md:max-w-[400px] mx-auto h-auto object-cover"
                   loading="lazy"

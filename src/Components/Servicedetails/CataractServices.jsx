@@ -42,7 +42,7 @@ const CataractServices = () => {
               className="flex-1 bg-white rounded-xl shadow-lg p-6 space-y-4 hover:shadow-xl transition"
             >
               <img
-                src={cat.image}
+                src={`${import.meta.env.BASE_URL}${cat.image}`}
                 alt={cat.type}
                 className="rounded-lg max-w-xs w-full h-[220px] mx-auto object-cover shadow-md"
                 loading="lazy"
