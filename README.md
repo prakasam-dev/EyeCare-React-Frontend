@@ -1,12 +1,52 @@
-# React + Vite
+# 👁️ EyeCare – Responsive React Website for Vision Services
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fully responsive frontend application built with **React.js**, designed to showcase eye care services with clarity, trust, and smooth user experience. This project features animated scroll effects, structured routing, and dynamic service rendering using a local JSON API. Built with attention to UI polish and component architecture, it reflects the professionalism expected from a real-world clinic website.
 
-Currently, two official plugins are available:
+> “Good vision is not just about seeing clearly—it’s about feeling confident and cared for.”  
+> This project brings that philosophy to life through thoughtful design and clean React implementation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🔗 Live Demo  
+[Visit the deployed site](https://prakasam-dev.github.io/EyeCare-React-Frontend)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Key Features
+
+- 🧭 **Multi-page routing** using React Router
+- ⚙️ **Hooks-based architecture** for state and effects
+- 📄 **Service pages** powered by local JSON API:
+  - Routine Eye Checkups
+  - Cataract Services
+  - Vision Therapy
+- 🎨 **AOS animations** for smooth scroll transitions
+- 🎯 **React Icons** for visual clarity
+- 📱 **Responsive design** for mobile and desktop
+- 🔒 **Sign In / Sign Up UI** (frontend only)
+
+---
+
+
+## 🛠️ Tech Stack
+
+- React.js (Vite)
+- React Router
+- React Hooks
+- AOS (Animate On Scroll)
+- React Icons
+- JSON API (local)
+- CSS / Tailwind
+
+---
+
+## 🚀 How to Run Locally
+
+```bash
+git clone https://github.com/prakasam-dev/EyeCare-React-Frontend.git
+cd EyeCare-React-Frontend
+npm install
+npm run dev
+
+🙌 Author
+Gnana Prakasam Front-End Developer focused on responsive UI, real-world functionality, and clean component architecture. Passionate about building recruiter-ready web applications with visual polish and clarity.
