@@ -23,7 +23,6 @@ A modern, fully responsive frontend application built with **React.js**, designe
 - 🎨 **AOS animations** for smooth scroll transitions
 - 🎯 **React Icons** for visual clarity
 - 📱 **Responsive design** for mobile and desktop
-- 🔒 **Sign In / Sign Up UI** (frontend only)
 
 ---
 
