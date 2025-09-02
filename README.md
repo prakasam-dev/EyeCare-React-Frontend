@@ -40,13 +40,3 @@ A modern, fully responsive frontend application built with **React.js**, designe
 
 ---
 
-## 🚀 How to Run Locally
-
-```bash
-git clone https://github.com/prakasam-dev/EyeCare-React-Frontend.git
-cd EyeCare-React-Frontend
-npm install
-npm run dev
-
-🙌 Author
-Gnana Prakasam Front-End Developer focused on responsive UI, real-world functionality, and clean component architecture. Passionate about building recruiter-ready web applications with visual polish and clarity.
